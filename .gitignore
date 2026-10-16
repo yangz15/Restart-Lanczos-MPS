@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+__MACOSX/
+.ipynb_checkpoints/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+*.pkl
+*.h5
+*.hdf5

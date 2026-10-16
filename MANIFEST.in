@@ -1,0 +1,6 @@
+include README.md THIRD_PARTY_NOTICES.md
+recursive-include docs *.md
+recursive-include examples *.ipynb
+recursive-include tests *.py
+recursive-include .github *.yml
+include .gitignore
